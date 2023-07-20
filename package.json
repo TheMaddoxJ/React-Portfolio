@@ -12,12 +12,12 @@
     "node": "16.18.0",
     "npm": "8.19.2"
   },
-  "homepage": "https://themaddoxj.github.io/react-portfolio",
+  "homepage": "https://themaddoxj.github.io/React-Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
