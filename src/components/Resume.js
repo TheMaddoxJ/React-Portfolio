@@ -133,34 +133,42 @@ export let resumeData = {
     {
       name: "React Calculator",
       imgurl: "images/portfolio/React Calculator SS.PNG",
+      link: "https://github.com/TheMaddoxJ/React-Calculator",
     },
     {
       name: "Book Search Engine",
       imgurl: "images/portfolio/Book Search Engine SS.PNG",
+      link: "https://github.com/TheMaddoxJ/Book-Search-Engine",
     },
     {
       name: "Script Scout",
       imgurl: "images/portfolio/Script Scout SS.png",
+      link: "https://github.com/TheMaddoxJ/ScriptScout",
     },
     {
       name: "Guess My Number!",
       imgurl: "images/portfolio/Guess My Number.PNG",
+      link: "https://themaddoxj.github.io/Guess-My-Number/",
     },
     {
       name: "Password Generator",
       imgurl: "images/portfolio/Password Generator Screenshot.png",
+      link: "https://themaddoxj.github.io/PasswordGenerator/",
     },
     {
       name: "Work Day Scheduler",
       imgurl: "images/portfolio/Work Day Scheduler Screenshot.png",
+      link: "https://themaddoxj.github.io/Work-Day-Scheduler/",
     },
     {
       name: "Note Taker",
       imgurl: "images/portfolio/Note Taker SS.PNG",
+      link: "https://github.com/TheMaddoxJ/Note-Taker",
     },
     {
       name: "River of Life Church",
       imgurl: "images/portfolio/RLC SS.PNG",
+      link: "https://rlclex.com/",
     },
   ],
 };
