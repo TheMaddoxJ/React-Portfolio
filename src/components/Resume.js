@@ -132,11 +132,11 @@ export let resumeData = {
   portfolio: [
     {
       name: "React Calculator",
-      imgurl: "images/portfolio/React Calculator SS.png",
+      imgurl: "images/portfolio/React Calculator SS.PNG",
     },
     {
       name: "Book Search Engine",
-      imgurl: "images/portfolio/Book Search Engine SS.png",
+      imgurl: "images/portfolio/Book Search Engine SS.PNG",
     },
     {
       name: "Script Scout",
@@ -144,7 +144,7 @@ export let resumeData = {
     },
     {
       name: "Guess My Number!",
-      imgurl: "images/portfolio/Guess My Number.png",
+      imgurl: "images/portfolio/Guess My Number.PNG",
     },
     {
       name: "Password Generator",
@@ -156,11 +156,11 @@ export let resumeData = {
     },
     {
       name: "Note Taker",
-      imgurl: "images/portfolio/Note Taker SS.png",
+      imgurl: "images/portfolio/Note Taker SS.PNG",
     },
     {
       name: "River of Life Church",
-      imgurl: "images/portfolio/RLC SS.png",
+      imgurl: "images/portfolio/RLC SS.PNG",
     },
   ],
 };
